@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "allowDeclarations": true,
+        "allowDefinitionFiles": true
+    }
+}
